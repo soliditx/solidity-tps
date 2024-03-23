@@ -1,6 +1,6 @@
 {
   "name": "@soliditx/solidity-tps",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "description": "Description for solidity-tps",
   "main": "src/index.js",
   "scripts": {
@@ -20,6 +20,12 @@
     "@soliditx/solidity-loan": "^1.0.0",
     "@soliditx/solidity-dex": "^1.0.0",
     "@soliditx/solidity-nft": "^1.0.0",
-    "@soliditx/solidity-ai": "^1.0.0"
+    "@soliditx/solidity-ai": "^1.0.0",
+    "@soliditx/solidity-fakeai": "^1.0.0",
+    "@soliditx/solidity-rwa": "^1.0.0",
+    "@soliditx/solidity-public": "^1.0.0",
+    "@soliditx/solidity-privacy": "^1.0.0",
+    "@soliditx/solidity-lint": "^1.0.0",
+    "@soliditx/solidity-learn": "^1.0.0"
   }
 }
