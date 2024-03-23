@@ -1,6 +1,6 @@
 {
   "name": "@soliditx/solidity-tps",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "description": "Description for solidity-tps",
   "main": "src/index.js",
   "scripts": {
@@ -16,6 +16,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@movexl/manage-github-repo": "^1.0.0"
+    "@movexl/manage-github-repo": "^1.0.0",
+    "@soliditx/solidity-loan": "^1.0.0",
+    "@soliditx/solidity-dex": "^1.0.0",
+    "@soliditx/solidity-nft": "^1.0.0",
+    "@soliditx/solidity-ai": "^1.0.0"
   }
 }
