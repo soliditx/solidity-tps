@@ -1,6 +1,6 @@
 {
   "name": "@soliditx/solidity-tps",
-  "version": "1.0.131",
+  "version": "1.0.132",
   "description": "Description for solidity-tps",
   "main": "src/index.js",
   "scripts": {
